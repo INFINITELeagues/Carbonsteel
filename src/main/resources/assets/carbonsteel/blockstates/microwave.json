@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "carbonsteel:block/microwave" },
+    "facing=south": { "model": "carbonsteel:block/microwave", "y":  180},
+    "facing=west": { "model": "carbonsteel:block/microwave", "y":  270},
+    "facing=east": { "model": "carbonsteel:block/microwave", "y":  90}
+  }
+}

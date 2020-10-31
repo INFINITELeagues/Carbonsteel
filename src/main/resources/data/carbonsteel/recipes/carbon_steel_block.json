@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "ttt",
+    "ttt",
+    "ttt"
+  ],
+  "key":
+  {
+    "t":
+    {
+      "item": "carbonsteel:carbon_steel_ingot"
+    }
+  },
+  "result":
+  {
+    "item": "carbonsteel:carbon_steel_shovel",
+    "count": 1
+  }
+}

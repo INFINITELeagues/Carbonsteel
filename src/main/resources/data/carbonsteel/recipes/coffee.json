@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "s",
+    "c",
+    "b"
+  ],
+  "key":
+  {
+    "t":
+    {
+      "item": "minecraft:sugar"
+    },
+    "s":
+    {
+      "item": "minecraft:cocoa_beans"
+    },
+    "b":
+    {
+      "item": "minecraft:water_bottle"
+    }
+  },
+  "result":
+  {
+    "item": "carbonsteel:carbon_steel_axe",
+    "count": 5
+  }
+}

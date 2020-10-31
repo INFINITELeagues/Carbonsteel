@@ -1,0 +1,41 @@
+
+modLoader="javafml" #mandatory
+
+loaderVersion="[32,)" #mandatory This is typically bumped every Minecraft version by Forge. See our download page for lists of versions.
+
+issueTrackerURL="http://my.issue.tracker/" #optional
+
+[[mods]] #mandatory
+
+modId="carbonsteel" #mandatory
+
+version="1.16.1-1.0.0" #mandatory
+
+displayName="Carbon Steel" #mandatory
+
+updateJSONURL="http://myurl.me/" #optional
+
+displayURL="http://example.com/" #optional
+
+logoFile="examplemod.png" #optional
+
+credits="Thanks to xf8b, TurtyWurty, TechnoVision and Obi-Wan!" #optional
+
+authors="INFINITELeagues" #optional
+
+description='''
+A MineCraft Forge Mod that can give you access to CarbonSteel, one of the strongest metal on Earth!
+'''
+
+[[dependencies.examplemod]] #optional
+    modId="forge" #mandatory
+    mandatory=true #mandatory
+    versionRange="[32,)" #mandatory
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.examplemod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.1]"
+    ordering="NONE"
+    side="BOTH"

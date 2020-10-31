@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " tt",
+    " st",
+    " s "
+  ],
+  "key":
+  {
+    "t":
+    {
+      "item": "carbonsteel:carbon_steel_ingot"
+    },
+    "s":
+    {
+      "item": "minecraft:stick"
+    }
+  },
+  "result":
+  {
+    "item": "carbonsteel:carbon_steel_axe",
+    "count": 1
+  }
+}

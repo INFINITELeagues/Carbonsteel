@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "carbonsteel:items/carbon_steel_axe"
+  }
+}

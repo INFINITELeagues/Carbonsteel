@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "   ",
+    " t ",
+    "   "
+  ],
+  "key":
+  {
+    "t":
+    {
+      "item": "carbonsteel:carbon_steel_block"
+    }
+  },
+  "result":
+  {
+    "item": "carbonsteel:carbon_steel_ingot",
+    "count": 1
+  }
+}
